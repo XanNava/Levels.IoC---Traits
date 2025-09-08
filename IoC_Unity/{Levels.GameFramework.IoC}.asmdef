@@ -1,0 +1,22 @@
+{
+    "name": "Levels.GameFramework.IoC",
+    "rootNamespace": "Levels.GameFramework.IoC",
+    "references": [
+        "GUID:c8b0d96954c9dc84394cae1decacf74a",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:0844a4e4f7ef9bd40bb793c51e707eaa",
+        "GUID:50df35cb1813411498e4a8292a89e8aa",
+        "GUID:995ae0c41b66bd94b9ae5f7507af8c17",
+        "GUID:33bebbd350e52b4449c046e31aa17286",
+        "GUID:a855a24535be9fd43b6155ad4454741c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

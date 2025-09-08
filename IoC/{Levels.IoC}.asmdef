@@ -1,0 +1,16 @@
+{
+    "name": "Levels.IoC",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a855a24535be9fd43b6155ad4454741c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
